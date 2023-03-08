@@ -16,6 +16,7 @@
 ### Backend Development:
 
 [![Flask][flask-shield]][flask-url]
+[![Express][express-shield]][express-url]
 
 ### Frontend Development:
 
@@ -40,11 +41,13 @@
 [react-router-shield]: https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white
 [redux-shield]: https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white
 [linkedin-shield]: https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
+[express-shield]: https://img.shields.io/badge/Express.js-404D59?style=for-the-badge
 [javascript-url]: https://www.javascript.com/
 [python-url]: https://www.python.org/
 [html-url]: https://www.w3.org/html/
 [css-url]: https://www.w3.org/Style/CSS/Overview.en.html
 [flask-url]: https://flask.palletsprojects.com/en/2.2.x/
+[express-url]: https://expressjs.com/en/4x/api.html
 [sqlite-url]: https://www.sqlite.org/index.html
 [postgresql-url]: https://www.postgresql.org/
 [react-url]: https://reactjs.org/
