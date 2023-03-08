@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hi there 👋 Welcome to my Github Repo!
+
+
+
+
+
+
 
 ## 💻 **Tech Stack**
 
@@ -18,6 +24,11 @@
 [![react][react-shield]][react-url]
 [![react-router][react-router-shield]][react-router-url]
 [![redux][redux-shield]][redux-url]
+
+
+###Resume
+
+[![resume][redux-shield]][resume-url]
 
 <!-- MARKDOWN LINKS & IMAGES -->
 
@@ -43,7 +54,7 @@
 [react-router-url]: https://reactrouter.com/en/main
 [redux-url]: https://redux.js.org/
 [linkedin-url]: https://www.linkedin.com/in/nguyenpeterviet/
-
+[resume-url]: https://docs.google.com/document/d/1rmYzQp2xzMS0VLkiW4NiRctj1AGzRbxrwonrtafD2o0/edit?usp=sharing
 <!--
 **FatalBanana1/FatalBanana1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
