@@ -28,7 +28,7 @@
 
 ###Resume
 
-[![resume][resume]][resume-url]
+[![resume][:scroll:]][resume-url]
 
 <!-- MARKDOWN LINKS & IMAGES -->
 
