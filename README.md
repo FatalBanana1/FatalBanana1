@@ -26,9 +26,8 @@
 [![redux][redux-shield]][redux-url]
 
 
-###Resume
-
-[:scroll:][resume-url]
+### Resume
+[:scroll:][resume-url] Resume
 
 <!-- MARKDOWN LINKS & IMAGES -->
 
