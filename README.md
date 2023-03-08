@@ -17,6 +17,7 @@
 
 [![Flask][flask-shield]][flask-url]
 [![Express][express-shield]][express-url]
+[![Sequelize][sequelize-shield]][sequelize-url]
 
 ### Frontend Development:
 
@@ -49,6 +50,8 @@
 [flask-url]: https://flask.palletsprojects.com/en/2.2.x/
 [express-url]: https://expressjs.com/en/4x/api.html
 [sqlite-url]: https://www.sqlite.org/index.html
+[sequelize-shield]:	https://img.shields.io/badge/sequelize-323330?style=for-the-badge&logo=sequelize&logoColor=blue
+[sequelize-url]:	https://sequelize.org/docs/v6/
 [postgresql-url]: https://www.postgresql.org/
 [react-url]: https://reactjs.org/
 [react-router-url]: https://reactrouter.com/en/main
