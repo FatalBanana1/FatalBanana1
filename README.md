@@ -1,7 +1,7 @@
 ### Hi there 👋 Welcome to my Github!
 
 - 🔭 I’m currently working on [My Youtube Channel][youtube-url]
-- 🌱 I’m currently learning [![Python][python-shield]][python-url]
+- 🌱 I’m currently learning Cloud and Docker
 - 📫 Reach me by email: wasiqnj@gmail.com
 
 ## 💻 **Tech Stack**
