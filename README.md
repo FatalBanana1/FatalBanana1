@@ -4,7 +4,9 @@
 - 🌱 I’m currently learning Cloud and Docker
 - 📫 Reach me by email: wasiqnj@gmail.com
 
-### 💻 **About Me**
+### **About Me**
+
+I am a Full Stack Developer. I started my journey through App Academy, learning various technologies listed below and more. I have enjoyed my experience as a developer so far and love adding more skills to my repertoire. Currently working on learning more about Docker and the Cloud.
 
 
 ### 💻 **Tech Stack**
