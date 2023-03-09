@@ -1,4 +1,4 @@
-### Hi there 👋 Welcome to my Github Repo!
+### Hi there 👋 Welcome to my Github!
 
 - 🔭 I’m currently working on [My Youtube Channel][youtube-url]
 - 🌱 I’m currently learning [![Python][python-shield]][python-url]
