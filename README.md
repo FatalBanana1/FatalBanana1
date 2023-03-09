@@ -1,4 +1,4 @@
-### Hi there 👋 Welcome to my Github!
+### Hi there 👋 Welcome to FatalBanana's Github!
 
 - 🔭 I’m currently working on [My Youtube Channel][youtube-url]
 - 🌱 I’m currently learning Cloud and Docker
