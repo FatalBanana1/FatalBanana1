@@ -1,6 +1,6 @@
 ### Hi there 👋 Welcome to FatalBanana's Github!
 
-- 🔭 I’m currently working on [My Youtube Channel][youtube-url]
+- 🔭 I’m currently working on [My Youtube Channel][youtube-url] and Rereadit Project
 - 🌱 I’m currently learning Cloud and Docker
 - 📫 Reach me by email: wasiqnj@gmail.com
 
