@@ -31,8 +31,7 @@ I am a Full Stack Developer. I started my journey through App Academy, learning 
 [![redux][redux-shield]][redux-url]
 
 
-### Resume
-[:scroll:][resume-url] Resume
+
 
 <!-- MARKDOWN LINKS & IMAGES -->
 
