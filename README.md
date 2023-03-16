@@ -1,13 +1,14 @@
 ### Hi there 👋 Welcome to FatalBanana's Github!
 
 - 🔭 I’m currently working on [My Youtube Channel][youtube-url] and Rereadit Project
-- 🌱 I’m currently learning Cloud and Docker
+- 🌱 I’m currently learning Cloud, Docker, and Kubernetes
+- 🤔 Long term interests include CI/CD in DevOps and working with AI and automation
 - 📫 Reach me by email: wasiqnj@gmail.com
-- 🤔 Long term interests include CI/CD in DevOps and working with AI and automation.
+
 
 ### **About Me**
 
-I started my journey through App Academy (Full Stack Software Engineer Course), learning various technologies listed below and more. I have enjoyed my experience as a developer so far and love adding more skills to my repertoire. Currently working on learning more about Docker, Kubernetes, and the Cloud.
+I started my journey through App Academy (Full Stack Software Engineer Course), learning various technologies listed below and more. I have enjoyed my experience as a developer so far and love adding more skills to my repertoire.
 
 
 ### 💻 **Tech Stack**
