@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on [My Youtube Channel][youtube-url] and Rereadit Project
 - 🌱 I’m currently learning Cloud, Docker, and Kubernetes
-- 🤔 Long term interests include CI/CD in DevOps and working with AI and automation
+- 🤔 Long term interests include working with AI and automation
 - 📫 Reach me by email: wasiqnj@gmail.com
 
 
