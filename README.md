@@ -15,22 +15,10 @@ I started my journey through App Academy (Full Stack Software Engineer Course), 
 
 ### Languages:
 
-[![JavaScript][javascript-shield]][javascript-url]
 [![Python][python-shield]][python-url]
+[![JavaScript][javascript-shield]][javascript-url]
 [![HTML][html-shield]][html-url]
 [![CSS][css-shield]][css-url]
-
-### Backend Development:
-
-[![Flask][flask-shield]][flask-url]
-[![Express][express-shield]][express-url]
-[![Sequelize][sequelize-shield]][sequelize-url]
-
-### Frontend Development:
-
-[![react][react-shield]][react-url]
-[![react-router][react-router-shield]][react-router-url]
-[![redux][redux-shield]][redux-url]
 
 
 
