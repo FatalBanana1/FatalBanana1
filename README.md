@@ -11,9 +11,7 @@
 I started my journey through App Academy (Full Stack Software Engineer Course), learning various technologies listed below and more. I have enjoyed my experience as a software engineer so far and love adding more skills to my repertoire.
 
 
-### 💻 **Tech Stack**
-
-### Languages:
+### 💻 Languages:
 
 [![Python][python-shield]][python-url]
 [![JavaScript][javascript-shield]][javascript-url]
