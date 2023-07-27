@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on [My Youtube Channel][youtube-url] and my React Native Project
 - 🌱 I’m currently learning Cloud, Docker, and Kubernetes
-- 🤔 Long term interests include working with AI and automation
+- 🤔 View my portfolio here: wasiq.org
 - 📫 Reach me by email: wasiqnj@gmail.com
 
 
