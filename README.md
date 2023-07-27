@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on [My Youtube Channel][youtube-url] and my React Native Project
 - 🌱 I’m currently learning Cloud, Docker, and Kubernetes
-- 🤔 View my portfolio here: wasiq.org
+- 🤔 View my portfolio here: [My Portfolio][wasiq-url]
 - 📫 Reach me by email: wasiqnj@gmail.com
 
 
@@ -51,6 +51,8 @@ I started my journey through App Academy (Full Stack Software Engineer Course), 
 [linkedin-url]: https://www.linkedin.com/in/nguyenpeterviet/
 [resume-url]: https://docs.google.com/document/d/1rmYzQp2xzMS0VLkiW4NiRctj1AGzRbxrwonrtafD2o0/edit?usp=sharing
 [youtube-url]: https://www.youtube.com/@leetwh
+[wasiq-url]: https://www.wasiq.org
+
 <!--
 **FatalBanana1/FatalBanana1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
