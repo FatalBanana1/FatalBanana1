@@ -1,9 +1,9 @@
 ### Hi there 👋 Welcome to FatalBanana1's Github!
 
 - 🔭 I’m currently working on [My Youtube Channel][youtube-url] and my React Native Project
-- 🌱 I’m currently learning Cloud, Docker, and Kubernetes
+- 🌱 I’m currently learning AWS.
 - 🤔 View my portfolio here: [My Portfolio][wasiq-url]
-- 📫 Reach me by email: wasiqnj@gmail.com
+- 📫 
 
 
 ### **About Me**
