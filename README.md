@@ -8,7 +8,7 @@
 
 ### **About Me**
 
-I started my journey through App Academy (Full Stack Software Engineer Course), learning various technologies listed below and more. I have enjoyed my experience as a software engineer so far and love adding more skills to my repertoire.
+I started my journey through App Academy (Full Stack Software Engineer Course), learning various technologies listed below and more. I work with Capital Rx as a full stack software engineer and OKB Hope Foundation as the lead software engineer. Having fun, making a difference in the world, helping people in need, living the dream!
 
 
 ### 💻 Languages:
